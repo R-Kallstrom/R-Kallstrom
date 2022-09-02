@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Kallstrom
 - 👀 I’m interested in coding and computer security 
-- 🌱 I’m currently learning C++, Algorithms, datastructures
+- 🌱 I’m currently learning C++, Algorithms and datastructures, Python and HTML
 
 <!---
 R-Kallstrom/R-Kallstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
